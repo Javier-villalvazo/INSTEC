@@ -1,0 +1,23 @@
+
+    <header class="site-header">
+         <div class="logo">
+           <a href=""><img src="img/logo.png" alt="" ></a>
+         </div>
+
+         <div class="menu">
+            <ul>
+                <li><a class="active" href="">INICIO</a></li>
+                <li><a href="">NOSOTROS</a></li>
+                <li><a href="">SOLUCIONES</a></li>
+                <li><a href="">CONTACTO</a></li>    
+            </ul>
+          </div>
+  
+          <div class="contact-bar">
+            <ul>
+              <li> <a class="llamada" href="tel:660102509" title="Llamar por teléfono"><div class="fa fa-phone "></div> <span>55 56 01 19 21</span></a></li>
+                
+                <li> <a class="mandar-email" href="mailto:info@unaicalleja.es" title="Mandar email"><div class="fa fa-mail-reply"></div> <span>info@instec.mx</span></a></li>
+            </ul>
+          </div>
+    </header>
