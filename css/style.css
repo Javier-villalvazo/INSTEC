@@ -80,7 +80,7 @@ margin: auto;
   background-color:rgba(32, 41, 52, 0.96);
   height: 8.5rem;
   width: 100%;
-  position: fixed;
+  position: fixed relative;
   z-index: 91;
   top: 0;
   
